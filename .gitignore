@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / local config
+.env
+.env.*
+*.key
+*.pem
+*.p12
+credentials.json
+secrets/
+
+# Python (if added later)
+__pycache__/
+.venv/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+*~
